@@ -87,7 +87,7 @@ def _write_readme(n, fastest_ms):
     body = f"""# VLESS Collector
 
 Auto-collected **VLESS** configs, deduplicated, cleaned, and **tested through xray**
-so only nodes that actually pass traffic are published. Updates every 6 hours via
+so only nodes that actually pass traffic are published. Updates every hour via
 GitHub Actions.
 
 **Last update:** {now}
