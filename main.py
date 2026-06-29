@@ -82,7 +82,7 @@ def write_outputs(live):
 
 def _write_readme(n, fastest_ms):
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    slug = os.environ.get("REPO_SLUG", "mehrdad-tat/vless-collector")
+    slug = os.environ.get("REPO_SLUG", "mehrtat/vless-collector")
     raw_base = f"https://raw.githubusercontent.com/{slug}/main"
     body = f"""# VLESS Collector
 

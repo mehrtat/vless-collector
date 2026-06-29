@@ -12,10 +12,10 @@ GitHub Actions.
 Import this URL into v2rayNG / v2rayN / nekoray / sing-box (base64 subscription):
 
 ```
-https://raw.githubusercontent.com/mehrdad-tat/vless-collector/main/sub.txt
+https://raw.githubusercontent.com/mehrtat/vless-collector/main/sub.txt
 ```
 
-Or the plain list (one config per line): `https://raw.githubusercontent.com/mehrdad-tat/vless-collector/main/vless.txt`
+Or the plain list (one config per line): `https://raw.githubusercontent.com/mehrtat/vless-collector/main/vless.txt`
 
 ## How it works
 
