@@ -38,7 +38,7 @@ jobs:
           XRAY_BIN: xray
           TEST_CONCURRENCY: "80"
           TEST_TIMEOUT: "6"
-          MAX_TEST: "6000"
+          MAX_TEST: "0"
           REPO_SLUG: ${{ github.repository }}
         run: python main.py
 
